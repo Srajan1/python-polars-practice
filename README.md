@@ -1,3 +1,8 @@
+# What is this repo?
+This repo's aim is to help me practice python's polars library for data manipulation. The readme file contains some of the notes I made which studying it, the leetcode_polars_prac.py has the questions from leetcode's series [30 days of pandas](https://leetcode.com/studyplan/30-days-of-pandas/), leetcode itself doesn't offer submission in polars, hence I'm doing it locally, it of course won't run all the test cases but it has been a surprisingly effective exercise to practice polars.
+<br>
+I did not split the questions in individual file as it didn't seem necessary ATP, also it just seemed easier.
+
 ## Polars
 
 ### Data Types
